@@ -12,7 +12,8 @@ A podcast showcasing the variety of skills, tools, and strategies developers use
 
 ## Why?
 
-- I'm fascinated by how people work. I'm always interested in finding ways to improve my personal workflow, tooling, and skills.
+- I'm fascinated by how people work. 
+- I'm always interested in finding ways to improve my personal workflow, tooling, and skills.
 - I want a project for the upcoming winter.
 - I'm looking to build my skills and resume for the field of developer relations.
 - I want to experiment with a more curated/edited podcast format. I'm interested in taking editing time to craft a story instead of replaying interviews start to finish.
