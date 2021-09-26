@@ -2,6 +2,8 @@
 
 A podcast showcasing the variety of skills, tools, and strategies developers use to get things done.
 
+This doc is my "charter" — a summary of what I'm thinking about this podcast, why I'm making it, and how I plan to build it.
+
 ## What?
 
 - A curated season of episodes around a specific topic related to how developers work
