@@ -23,8 +23,8 @@ This doc is my "charter" — a summary of what I'm thinking about this podcast, 
 
 ## How?
 
-- Initial discovery (September) - survey to interested guests about what they can tell me about their personal workflow & systems
-- Identify sequence of episodes based on survey results (October)
-- Record interviews (October - November)
+- [x] Initial discovery (September) - survey to interested guests about what they can tell me about their personal workflow & systems
+- ~Identify sequence of episodes based on survey results (October)~
+- Record interviews (November - December)
 - Edit episodes (December - March)
 - Release episodes (January - March)
