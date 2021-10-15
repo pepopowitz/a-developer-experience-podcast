@@ -11,6 +11,7 @@ This doc is my "charter" — a summary of what I'm thinking about this podcast, 
 - Somewhere between 6 and 12 episodes
 - Between 15-30 minutes per episode
 - Each episode will be focused on a subtopic, with stories/details from multiple guests
+- [What to expect as a guest](./guest-handbook.md)
 
 ## Why?
 
