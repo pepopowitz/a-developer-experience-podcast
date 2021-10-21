@@ -10,7 +10,7 @@ Thank you for being a guest on How Devs Work! This is kind of an experiment for 
 
 ## Before recording
 
-- Take a look at this [recording guidebook](./recording-handbook.md) for tips on recording the best audio possible. Don't worry - you won't need to buy any equipment!
+- Take a look at this [recording handbook](./recording-handbook.md) for tips on recording the best audio possible. Don't worry - you won't need to buy any equipment!
 - Prior to our recording, I'll send you a link to a https://zencastr.com/ recording session. Zencastr is web-based and you won't need to install anything. It will want access to your microphone & camera.
 
 ## Recording
