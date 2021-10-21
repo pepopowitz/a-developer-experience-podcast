@@ -4,25 +4,28 @@ Thank you for being a guest on How Devs Work! This is kind of an experiment for 
 
 ## Scheduling
 
-- I'll reach out with a calend.ly to schedule an hour for us to talk
+- Please book an hour at https://calendly.com/steven-j-hicks/how-devs-work-recording. 
   - That hour includes a buffer for us to warm up & discuss details of the conversation before recording.
-- As a rough estimate, I'm planning to record conversations in November/December 2021.
+  - If you're unable to find a time in the slots available, let me know what times of day work best for you and I'll add some slots!
+
+## Before recording
+
+- Take a look at this [recording guidebook](./recording-handbook.md) for tips on recording the best audio possible. Don't worry - you won't need to buy any equipment!
+- Prior to our recording, I'll send you a link to a https://zencastr.com/ recording session. Zencastr is web-based and you won't need to install anything. It will want access to your microphone & camera.
 
 ## Recording
 
-- Before we record, I'll share with you: 
-  - a guide that will help you prepare for recording the best audio possible, in case you haven't recorded a podcast before. Don't worry - you won't need to buy any equipment!
-  - a link to a https://zencastr.com/ recording session. Zencastr is web-based and you won't need to install anything.
-- We'll begin the recording with some small talk to get comfortable.
+- We'll record audio only, but we'll also share video within zencastr so we can see each other. 
+- We'll begin the recording with some small talk to get comfortable. How 'bout them Bucks?
 - Then we'll discuss logistical details about the conversation we're going to have.
 - Then we'll record a conversation!
 - Don't worry about ums, ahs, tripping over your words, etc. I'll be slicing up and editing our conversation to fit into multiple episodes. I'm also pretty good about stopping us when we need a re-take.
 
 ## What will we talk about?
 
-I'm really interested in hearing about the system(s) you use to get your work done on a daily basis! Productivity hacks, task management, strategies for deep focus, ....
+I'm really interested in hearing about the system(s) you use to get your work done on a daily basis! Productivity hacks, task management, strategies for deep focus, etc. Whether you feel like you've got your systems all figured out or not, I'm interested to hear about what systems work and don't work for you. 
 
-I'll be using these questions to guide our conversation: 
+I'll be using the following questions to guide our conversation. We might talk a lot about some of these questions; we might completely skip others. Don't sweat it if it seems like you don't have big answers to all of these questions! I'm not going to release the conversations start-to-finish (see [Editing](#editing) below). 
 
 - Tell me about yourself!
 - Is there anything about you, your position, or your history that makes your systems of working notable?
@@ -49,11 +52,11 @@ I'll be using these questions to guide our conversation:
   - How do you feel when you aren't?
 - What have I missed? Is there something interesting about your systems that my questions haven't covered?
 
-We might talk a lot about one of these questions; we might completely skip another. We'll roll with the punches.
-
 ## Editing
 
-After I finish recording conversations with guests, I'll edit them for sound quality & content. I'll also be cutting the conversations up a fair amount -- portions of your interview will appear in multiple episodes, depending on how the stories fit together.
+After I finish recording conversations with guests, I'll edit them for sound quality & content. 
+
+Then I'll cut the conversations up a fair amount. My intentions are for each episode to include bits of audio from multiple guests, to tell cohesive stories from multiple perspectives.
 
 ## Release dates
 
