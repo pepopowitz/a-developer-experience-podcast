@@ -44,7 +44,7 @@ I'll be using the following questions to guide our conversation. We might talk a
   - Are there any events that led to your current system?
   - What are you "running from"? There's something that prompted you to develop these systems. What is it?
 - Do you have any stories of when your system(s) have failed you?
-  - Or stories of what it looks like when your systems aren't working wel
+  - Or stories of what it looks like when your systems aren't working well?
 - Do you have any stories of when your system(s) have saved you?
   - Or stories of what it looks like when your systems are working well?
 - How does your system affect you psychologically/emotionally?
