@@ -1,4 +1,4 @@
-# How Devs Work
+# A Developer Experience Podcast
 
 A podcast showcasing the variety of skills, tools, and strategies developers use to get things done.
 
@@ -26,6 +26,6 @@ This doc is my "charter" — a summary of what I'm thinking about this podcast, 
 
 - [x] Initial discovery (September) - survey to interested guests about what they can tell me about their personal workflow & systems
 - [x] ~Identify sequence of episodes based on survey results (October)~
-- [ ] Record interviews (November - December)
+- [x] Record interviews (November - December)
 - [ ] Edit episodes (December - March)
 - [ ] Release episodes (January - March)
